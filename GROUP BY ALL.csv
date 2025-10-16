@@ -1,0 +1,11 @@
+subscriber_type,bike_type,start_station_id,end_station_id,status,total_trips
+Student Membership,electric,3795,3798,active,13787
+Student Membership,electric,3798,3795,active,12785
+U.T. Student Membership,classic,3798,3794,active,12557
+U.T. Student Membership,classic,3794,3798,active,12278
+Student Membership,electric,3798,2498,active,12013
+Student Membership,electric,2498,3798,active,10500
+U.T. Student Membership,classic,3795,3798,active,9235
+Student Membership,electric,3838,3798,active,8954
+U.T. Student Membership,classic,3798,3798,active,8714
+U.T. Student Membership,classic,3792,3798,active,8614
